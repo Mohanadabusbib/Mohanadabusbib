@@ -25,11 +25,11 @@
   <rect width="1200" height="400" rx="18" fill="url(#bg)"/>
   <!-- Text -->
   <text x="70" y="120" class="m fade d1" font-size="20">Hi, I'm</text>
-  <text x="70" y="185" class="t fade d2" font-size="60" font-weight="700">YOUR_NAME</text>
-  <text x="70" y="235" fill="url(#accent)" class="fade d3" font-size="28" font-weight="600">YOUR_TITLE</text>
+  <text x="70" y="185" class="t fade d2" font-size="60" font-weight="700">Mohanad Abusbib</text>
+  <text x="70" y="235" fill="url(#accent)" class="fade d3" font-size="28" font-weight="600">Software Engineer · Odoo &amp; Laravel</text>
   <g class="fade d4">
     <circle cx="80" cy="290" r="7" fill="#3fb950" class="pulse"/>
-    <text x="96" y="297" class="m" font-size="18">Based in YOUR_LOCATION · Open to freelance &amp; remote work</text>
+    <text x="96" y="297" class="m" font-size="18">Based in Riyadh · Open to freelance &amp; remote work</text>
   </g>
   <!-- Code window -->
   <g class="float">
